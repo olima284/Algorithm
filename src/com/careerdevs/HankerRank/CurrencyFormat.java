@@ -28,3 +28,10 @@ public class CurrencyFormat {
                 System.out.println("France: " + france.format(payment));
         }
 }
+
+
+//format integer into currency
+//NumberFormat currency = NumberFormat.getCurrencyInstance();
+//String result = currency.format( 123456.891);
+//System.out.println(result);
+//Runs:$123,456.89
