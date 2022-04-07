@@ -1,4 +1,4 @@
-package com.careerdevs.HankerRank;
+package com.careerdevs.Edabit;
 
 
 
