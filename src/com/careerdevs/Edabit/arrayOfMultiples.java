@@ -3,7 +3,6 @@ import java.util.*;
 
 public class arrayOfMultiples {
     public static void main(String[] args) {
-
     }
 
         public static int[] arrayOfMultiples ( int num, int length){
@@ -17,7 +16,7 @@ public class arrayOfMultiples {
 
             return solution;
 
-    }
+        }
     }
 
 
