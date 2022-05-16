@@ -51,7 +51,7 @@ return lst[::-1]
  * */
 
 
-//Slicing in python
+//Slicing in python//
 //slicing makes it possible to access parts of sequences,
 // such as strings or list,
 //multiple values are accessed
